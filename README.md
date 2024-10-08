@@ -24,5 +24,7 @@ GET /bikes: Fetch a list of all bikes
 POST /bikes: Add a new bike
 PUT /bikes/:id: Update an existing bike
 DELETE /bikes/:id: Delete a bike
+![Swagger Screenshot](swagger.png)
 
 
+     
