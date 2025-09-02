@@ -1,0 +1,370 @@
+{
+  "manufacturer": {
+    "makeId": 145,
+    "makeName": "Kinetic Green",
+    "logoUrl": "/n/cw/ec/145/brands/logos/kinetic-green1703595545682.jpg?v=1703595545797"
+  },
+  "bikes": [
+    {
+      "modelId": 2739,
+      "modelName": "E Luna",
+      "modelMaskingName": "e-luna",
+      "bodyStyleId": 16,
+      "fuelTypeId": 5,
+      "rating": 4.2,
+      "reviewCount": 6,
+      "imagePath": "/n/cw/ec/1/versions/--x3-prime1751370523863.jpg",
+      "launchedOn": "2/8/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 21162,
+        "versionName": "X3 Prime",
+        "price": 69990,
+        "formattedPrice": "₹ 69,990",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "50",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "110",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "96",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "2.3",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2705,
+      "modelName": "Zing",
+      "modelMaskingName": "zing",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 3.6,
+      "reviewCount": 1,
+      "imagePath": "/n/bw/models/colors/kinetic-green-select-model-royal-white-1703661907268.png",
+      "launchedOn": "11/30/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 15991,
+        "versionName": "Big B",
+        "price": 67990,
+        "formattedPrice": "₹ 67,990",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "25",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "100",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "81",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "1.68",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2703,
+      "modelName": "Flex",
+      "modelMaskingName": "flex",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 3.5,
+      "imagePath": "/n/cw/ec/167283/flex-right-side-view-2.png?isig=0",
+      "launchedOn": "3/31/2023 12:00:00 AM",
+      "variant": {
+        "versionId": 15987,
+        "versionName": "Standard",
+        "price": 109874,
+        "formattedPrice": "₹ 1,09,874",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "72",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "120",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "100",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2707,
+      "modelName": "Zulu",
+      "modelMaskingName": "zulu",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 3,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/167287/zulu-left-side-view.png?isig=0",
+      "launchedOn": "12/11/2023 12:00:00 AM",
+      "variant": {
+        "versionId": 15993,
+        "versionName": "Standard",
+        "price": 79990,
+        "formattedPrice": "₹ 79,990",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "60",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "104",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "93",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "1.4",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 4,
+  "syncedAt": "2025-09-02T03:44:48.044Z"
+}

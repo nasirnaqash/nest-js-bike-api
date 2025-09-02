@@ -1,0 +1,796 @@
+{
+  "manufacturer": {
+    "makeId": 115,
+    "makeName": "Keeway",
+    "logoUrl": "/n/cw/ec/115/brands/logos/keeway1652859658203.jpg?v=1652859658281"
+  },
+  "bikes": [
+    {
+      "modelId": 2113,
+      "modelName": "SR125",
+      "modelMaskingName": "sr125",
+      "bodyStyleId": 3,
+      "fuelTypeId": 1,
+      "rating": 4.2,
+      "reviewCount": 31,
+      "imagePath": "/n/cw/ec/132773/sr125-right-side-view-2.png?isig=0",
+      "launchedOn": "10/13/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 11137,
+        "versionName": "Standard",
+        "price": 124997,
+        "formattedPrice": "₹ 1,24,997",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "125",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "48",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "9.56",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "120",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2001,
+      "modelName": "V302C",
+      "modelMaskingName": "v302c",
+      "bodyStyleId": 1,
+      "fuelTypeId": 1,
+      "rating": 4.3,
+      "reviewCount": 9,
+      "imagePath": "/n/cw/ec/129571/v302c-right-side-view-2.png?isig=0",
+      "launchedOn": "8/30/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10811,
+        "versionName": "Glossy Black",
+        "price": 428793,
+        "formattedPrice": "₹ 4,28,793",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "298",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "36",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "29.09",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "167",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3370,
+      "modelName": "RR300",
+      "modelMaskingName": "rr300",
+      "bodyStyleId": 12,
+      "fuelTypeId": 1,
+      "rating": 4.5,
+      "reviewCount": 2,
+      "imagePath": "/n/cw/ec/206914/rr300-right-side-view.jpeg?isig=0",
+      "launchedOn": "7/17/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 21272,
+        "versionName": "Standard",
+        "price": 199000,
+        "formattedPrice": "₹ 1,99,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "292.4",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "27.88",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "165",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3199,
+      "modelName": "K300 SF",
+      "modelMaskingName": "k300-sf",
+      "bodyStyleId": 13,
+      "fuelTypeId": 1,
+      "rating": 4.6,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/196525/k300-sf-right-side-view.jpeg?isig=0",
+      "launchedOn": "1/23/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 19427,
+        "versionName": "Standard",
+        "price": 169000,
+        "formattedPrice": "₹ 1,69,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "292.4",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "37",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "27.8",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "151",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1871,
+      "modelName": "K-Light 250V",
+      "modelMaskingName": "k-light-250v",
+      "bodyStyleId": 1,
+      "fuelTypeId": 1,
+      "rating": 4.6,
+      "reviewCount": 2,
+      "imagePath": "/n/cw/ec/122313/k-light-250v-right-side-view-2.png?isig=0",
+      "launchedOn": "7/5/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10173,
+        "versionName": "Standard",
+        "price": 249046,
+        "formattedPrice": "₹ 2,49,046",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "249",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "18.4",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "179",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2251,
+      "modelName": "SR250",
+      "modelMaskingName": "sr250",
+      "bodyStyleId": 3,
+      "fuelTypeId": 1,
+      "rating": 3.6,
+      "reviewCount": 13,
+      "imagePath": "/n/cw/ec/139417/sr250-right-side-view-2.png?isig=0",
+      "launchedOn": "1/11/2023 12:00:00 AM",
+      "variant": {
+        "versionId": 11541,
+        "versionName": "Standard",
+        "price": 153997,
+        "formattedPrice": "₹ 1,53,997",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "223",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "35.5",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "15.78",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "120",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2045,
+      "modelName": "K300 R",
+      "modelMaskingName": "k300-r",
+      "bodyStyleId": 12,
+      "fuelTypeId": 1,
+      "rating": 4.4,
+      "reviewCount": 5,
+      "imagePath": "/n/cw/ec/130725/k300-r-right-side-view-5.png?isig=0",
+      "launchedOn": "9/15/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10913,
+        "versionName": "Glossy Red",
+        "price": 264952,
+        "formattedPrice": "₹ 2,64,952",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "292.4",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "27.1",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "165",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1869,
+      "modelName": "Sixties 300i",
+      "modelMaskingName": "sixties-300i",
+      "bodyStyleId": 5,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "imagePath": "/n/cw/ec/122311/sixties-300i-right-side-view-2.png?isig=0",
+      "launchedOn": "5/27/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10171,
+        "versionName": "Standard",
+        "price": 330000,
+        "formattedPrice": "₹ 3,30,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "278.2",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "27.4",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "18.4",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "146",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1867,
+      "modelName": "Vieste 300",
+      "modelMaskingName": "vieste-300",
+      "bodyStyleId": 5,
+      "fuelTypeId": 1,
+      "rating": 3.9,
+      "reviewCount": 5,
+      "imagePath": "/n/cw/ec/122309/vieste-300-right-side-view-2.png?isig=0",
+      "launchedOn": "5/27/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10169,
+        "versionName": "Standard",
+        "price": 325000,
+        "formattedPrice": "₹ 3,25,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "278.2",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "29.5",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "18.4",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "147",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 9,
+  "syncedAt": "2025-09-02T03:44:46.717Z"
+}

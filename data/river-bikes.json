@@ -1,0 +1,103 @@
+{
+  "manufacturer": {
+    "makeId": 163,
+    "makeName": "River",
+    "logoUrl": "/n/cw/ec/163/brands/logos/river1722517943766.jpg?v=1722517943918"
+  },
+  "bikes": [
+    {
+      "modelId": 2947,
+      "modelName": "Indie",
+      "modelMaskingName": "indie",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 4.3,
+      "reviewCount": 20,
+      "imagePath": "/n/cw/ec/183651/indie-left-front-three-quarter.jpeg?isig=0",
+      "launchedOn": "2/23/2023 12:00:00 AM",
+      "variant": {
+        "versionId": 17797,
+        "versionName": "Standard",
+        "price": 143001,
+        "formattedPrice": "₹ 1,43,001",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "90",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "161",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "143",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "4",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 1,
+  "syncedAt": "2025-09-02T03:44:58.407Z"
+}

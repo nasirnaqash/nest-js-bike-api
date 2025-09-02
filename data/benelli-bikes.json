@@ -1,0 +1,370 @@
+{
+  "manufacturer": {
+    "makeId": 40,
+    "makeName": "Benelli",
+    "logoUrl": "/bw/makes/benelli20200508192543.jpg"
+  },
+  "bikes": [
+    {
+      "modelId": 3313,
+      "modelName": "TRK 502X",
+      "modelMaskingName": "trk-502x",
+      "bodyStyleId": 7,
+      "fuelTypeId": 1,
+      "rating": 4.5,
+      "imagePath": "/n/cw/ec/202271/trk-502x-right-side-view.jpeg?isig=0",
+      "launchedOn": "5/7/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 20689,
+        "versionName": "Limited Edition",
+        "price": 680000,
+        "formattedPrice": "₹ 6,80,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "500",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "25",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "46.8",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "235",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1589,
+      "modelName": "502C",
+      "modelMaskingName": "502c",
+      "bodyStyleId": 1,
+      "fuelTypeId": 1,
+      "rating": 4.6,
+      "reviewCount": 7,
+      "imagePath": "/n/cw/ec/99293/502c-right-side-view-2.png?isig=0",
+      "launchedOn": "7/29/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 5833,
+        "versionName": "Standard",
+        "price": 525000,
+        "formattedPrice": "₹ 5,25,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "500",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "22.5",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "46.8",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "216",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3311,
+      "modelName": "TRK 502",
+      "modelMaskingName": "trk-502",
+      "bodyStyleId": 7,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/202269/trk-502-right-side-view.jpeg?isig=0",
+      "launchedOn": "5/7/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 20685,
+        "versionName": "Standard",
+        "price": 630000,
+        "formattedPrice": "₹ 6,30,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "500",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "25",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "46.8",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "228",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Switchable ABS",
+            "itemName": "Switchable ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1400,
+      "modelName": "Leoncino 500",
+      "modelMaskingName": "leoncino",
+      "bodyStyleId": 11,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "reviewCount": 4,
+      "imagePath": "/n/cw/ec/57825/leoncino-right-side-view.png?isig=0",
+      "launchedOn": "2/18/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 5447,
+        "versionName": "Standard",
+        "price": 498974,
+        "formattedPrice": "₹ 4,98,974",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "500",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "46.8",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "207",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Switchable ABS",
+            "itemName": "Switchable ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 4,
+  "syncedAt": "2025-09-02T03:44:34.638Z"
+}

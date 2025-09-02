@@ -1,0 +1,379 @@
+{
+  "manufacturer": {
+    "makeId": 92,
+    "makeName": "PURE EV",
+    "logoUrl": "/bw/makes/pure-ev20201014113440.jpg"
+  },
+  "bikes": [
+    {
+      "modelId": 1470,
+      "modelName": "EPluto 7G",
+      "modelMaskingName": "epluto-7g",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 2.3,
+      "reviewCount": 172,
+      "imagePath": "/n/cw/ec/164719/epluto-7g-right-side-view-2.png?isig=0",
+      "launchedOn": "2/10/2020 12:00:00 AM",
+      "variant": {
+        "versionId": 15839,
+        "versionName": "Max",
+        "price": 77999,
+        "formattedPrice": "₹ 77,999",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "60",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "150",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "76",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3.5",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1897,
+      "modelName": "Etryst 350",
+      "modelMaskingName": "etryst-350",
+      "bodyStyleId": 13,
+      "fuelTypeId": 5,
+      "rating": 3.7,
+      "reviewCount": 4,
+      "imagePath": "/n/cw/ec/124833/etryst-350-right-side-view-2.png?isig=0",
+      "launchedOn": "6/24/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 16639,
+        "versionName": "X",
+        "price": 130012,
+        "formattedPrice": "₹ 1,30,012",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "94",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "171",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "120",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3.5",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Standard",
+            "itemName": "Standard",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2295,
+      "modelName": "EcoDryft",
+      "modelMaskingName": "ecodryft",
+      "bodyStyleId": 13,
+      "fuelTypeId": 5,
+      "rating": 4.2,
+      "reviewCount": 8,
+      "imagePath": "/n/cw/ec/140379/ecodryft-right-side-view-6.png?isig=0",
+      "launchedOn": "3/20/2023 12:00:00 AM",
+      "variant": {
+        "versionId": 17911,
+        "versionName": "350",
+        "price": 100012,
+        "formattedPrice": "₹ 1,00,012",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "80",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "171",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "101",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3.5",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1525,
+      "modelName": "ETrance Neo",
+      "modelMaskingName": "etrance-neo",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 3.1,
+      "reviewCount": 41,
+      "imagePath": "/n/cw/ec/163539/etrance-neo-right-side-view-2.png?isig=0",
+      "launchedOn": "12/1/2020 12:00:00 AM",
+      "variant": {
+        "versionId": 15857,
+        "versionName": "Plus",
+        "price": 73999,
+        "formattedPrice": "₹ 73,999",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "60",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "150",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "86",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "E-ABS",
+            "itemName": "E-ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 4,
+  "syncedAt": "2025-09-02T03:44:55.663Z"
+}

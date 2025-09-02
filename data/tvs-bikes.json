@@ -1,0 +1,1866 @@
+{
+  "manufacturer": {
+    "makeId": 15,
+    "makeName": "TVS",
+    "logoUrl": "/bw/makes/tvs20200508193203.jpg"
+  },
+  "bikes": [
+    {
+      "modelId": 93,
+      "modelName": "Apache RTR 160",
+      "modelMaskingName": "apache-160",
+      "bodyStyleId": 9,
+      "fuelTypeId": 1,
+      "rating": 4.5,
+      "reviewCount": 857,
+      "imagePath": "/n/cw/ec/205660/apache-160-right-side-view.jpeg?isig=0",
+      "launchedOn": "6/1/2007 12:00:00 AM",
+      "variant": {
+        "versionId": 21138,
+        "versionName": "Dual Channel ABS",
+        "price": 118142,
+        "formattedPrice": "₹ 1,18,142",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "159.7",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "61",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "15.82",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "138",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1657,
+      "modelName": "Raider 125",
+      "modelMaskingName": "raider-125",
+      "bodyStyleId": 9,
+      "fuelTypeId": 1,
+      "rating": 4.4,
+      "reviewCount": 559,
+      "imagePath": "/n/cw/ec/103183/raider-125-right-side-view-20.png?isig=0",
+      "launchedOn": "9/16/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 11145,
+        "versionName": "SmartXonnect",
+        "price": 90094,
+        "formattedPrice": "₹ 90,094",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "124.8",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "56.7",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "11.2",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "123",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1895,
+      "modelName": "Ronin",
+      "modelMaskingName": "ronin",
+      "bodyStyleId": 1,
+      "fuelTypeId": 1,
+      "rating": 4.6,
+      "reviewCount": 221,
+      "imagePath": "/n/cw/ec/198071/ronin-right-side-view-2.png?isig=0",
+      "launchedOn": "7/6/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10409,
+        "versionName": "Top",
+        "price": 135551,
+        "formattedPrice": "₹ 1,35,551",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "225.9",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "42",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "20.1",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "160",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Switchable ABS",
+            "itemName": "Switchable ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2957,
+      "modelName": "Jupiter",
+      "modelMaskingName": "jupiter",
+      "bodyStyleId": 5,
+      "fuelTypeId": 1,
+      "rating": 4.5,
+      "reviewCount": 150,
+      "imagePath": "/n/cw/ec/185315/jupiter-right-side-view-16.jpeg?isig=0",
+      "launchedOn": "8/22/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17851,
+        "versionName": "SmartXonnect Disc - OBD 2B",
+        "price": 81853,
+        "formattedPrice": "₹ 81,853",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "113.3",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "53.84",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "7.91",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "106",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1136,
+      "modelName": "Ntorq 125",
+      "modelMaskingName": "ntorq-125",
+      "bodyStyleId": 5,
+      "fuelTypeId": 1,
+      "rating": 4.4,
+      "reviewCount": 708,
+      "imagePath": "/n/cw/ec/49444/ntorq-125-right-side-view-11.png?isig=0",
+      "launchedOn": "2/5/2018 12:00:00 AM",
+      "variant": {
+        "versionId": 10079,
+        "versionName": "XT",
+        "price": 94645,
+        "formattedPrice": "₹ 94,645",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "124.8",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "48.5",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "9.25",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "116",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1164,
+      "modelName": "Apache RTR 160 4V",
+      "modelMaskingName": "apache-rtr-160-4v",
+      "bodyStyleId": 9,
+      "fuelTypeId": 1,
+      "rating": 4.5,
+      "reviewCount": 698,
+      "imagePath": "/n/cw/ec/97549/apache-rtr-160-4v-right-side-view-8.png?isig=0",
+      "launchedOn": "3/14/2018 12:00:00 AM",
+      "variant": {
+        "versionId": 18927,
+        "versionName": "Dual Channel ABS - USD Forks",
+        "price": 123670,
+        "formattedPrice": "₹ 1,23,670",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "159.7",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "41.4",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "16.2",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "146",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Supermoto ABS",
+            "itemName": "Supermoto ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3418,
+      "modelName": "Orbiter",
+      "modelMaskingName": "orbiter",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 4.3,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/1/versions/tvs-orbiter-standard1756368826659.jpg",
+      "launchedOn": "8/28/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 21740,
+        "versionName": "Standard",
+        "price": 99900,
+        "formattedPrice": "₹ 99,900",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "68",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "158",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "112",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3.1",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Front",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1655,
+      "modelName": "Jupiter 125",
+      "modelMaskingName": "jupiter-125",
+      "bodyStyleId": 5,
+      "fuelTypeId": 1,
+      "rating": 4,
+      "reviewCount": 198,
+      "imagePath": "/n/cw/ec/103181/jupiter-125-right-side-view-17.png?isig=0",
+      "launchedOn": "10/7/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 15397,
+        "versionName": "SmartXonnect",
+        "price": 89279,
+        "formattedPrice": "₹ 89,279",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "124.8",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "50",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "8.04",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "108",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2995,
+      "modelName": "Apache RR 310",
+      "modelMaskingName": "apache-rr-310",
+      "bodyStyleId": 12,
+      "fuelTypeId": 1,
+      "rating": 4.7,
+      "reviewCount": 23,
+      "imagePath": "/n/cw/ec/187327/apache-rr-310-right-side-view.jpeg?isig=0",
+      "launchedOn": "9/16/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 20557,
+        "versionName": "Bomber Grey - OBD 2B",
+        "price": 278063,
+        "formattedPrice": "₹ 2,78,063",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "312.2",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "34.7",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "37.48",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "174",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Switchable ABS",
+            "itemName": "Switchable ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1355,
+      "modelName": "iQube",
+      "modelMaskingName": "iqube",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 3.7,
+      "reviewCount": 182,
+      "imagePath": "/n/cw/ec/44860/iqube-right-side-view-3.png?isig=0",
+      "launchedOn": "1/25/2020 12:00:00 AM",
+      "variant": {
+        "versionId": 20789,
+        "versionName": "ST 5.3 kWh",
+        "price": 109250,
+        "formattedPrice": "₹ 1,09,250",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "82",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "212",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "129.7",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "5.3",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 602,
+            "value": "1",
+            "itemName": "Touch Screen Display",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3382,
+      "modelName": "Apache RTR 310",
+      "modelMaskingName": "apache-rtr-310",
+      "bodyStyleId": 13,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/207254/apache-rtr-310-right-side-view-3.jpeg?isig=0",
+      "launchedOn": "7/17/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 21390,
+        "versionName": "Top",
+        "price": 239990,
+        "formattedPrice": "₹ 2,39,990",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "312.12",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "30",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "35.08",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "169",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Switchable ABS",
+            "itemName": "Switchable ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 676,
+      "modelName": "Apache RTR 200 4V",
+      "modelMaskingName": "apache-200",
+      "bodyStyleId": 13,
+      "fuelTypeId": 1,
+      "rating": 4.5,
+      "reviewCount": 637,
+      "imagePath": "/n/cw/ec/204536/apache-200-right-side-view-4.jpeg?isig=0",
+      "launchedOn": "1/20/2016 12:00:00 AM",
+      "variant": {
+        "versionId": 21016,
+        "versionName": "USD Forks - OBD - 2B",
+        "price": 149912,
+        "formattedPrice": "₹ 1,49,912",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "197.75",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "41.9",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "20.54",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "152",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Supermoto ABS",
+            "itemName": "Supermoto ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 98,
+      "modelName": "Sport",
+      "modelMaskingName": "sport",
+      "bodyStyleId": 9,
+      "fuelTypeId": 1,
+      "rating": 4.3,
+      "reviewCount": 384,
+      "imagePath": "/n/cw/ec/49446/sport-right-side-view-2.png?isig=0",
+      "launchedOn": "3/1/2010 12:00:00 AM",
+      "variant": {
+        "versionId": 20629,
+        "versionName": "ES+",
+        "price": 66318,
+        "formattedPrice": "₹ 66,318",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "109.7",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "80",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "8.08",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "112",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 219,
+      "modelName": "Apache RTR 180",
+      "modelMaskingName": "apache-180",
+      "bodyStyleId": 9,
+      "fuelTypeId": 1,
+      "rating": 4.6,
+      "reviewCount": 177,
+      "imagePath": "/n/cw/ec/130217/apache-180-right-side-view-2.png?isig=0",
+      "launchedOn": "3/1/2011 12:00:00 AM",
+      "variant": {
+        "versionId": 10865,
+        "versionName": "Disc Bluetooth",
+        "price": 135619,
+        "formattedPrice": "₹ 1,35,619",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "177.4",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "41",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "16.78",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "140",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Single Channel ABS",
+            "itemName": "Single Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1176,
+      "modelName": "Radeon",
+      "modelMaskingName": "radeon",
+      "bodyStyleId": 9,
+      "fuelTypeId": 1,
+      "rating": 4.4,
+      "reviewCount": 146,
+      "imagePath": "/n/cw/ec/51508/radeon-right-side-view-2.png?isig=0",
+      "launchedOn": "8/23/2018 12:00:00 AM",
+      "variant": {
+        "versionId": 8965,
+        "versionName": "Digital - Disc",
+        "price": 75607,
+        "formattedPrice": "₹ 75,607",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "109.7",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "62",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "8.08",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "115",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1169,
+      "modelName": "XL 100 Heavy Duty",
+      "modelMaskingName": "xl-100-heavy-duty",
+      "bodyStyleId": 16,
+      "fuelTypeId": 1,
+      "rating": 4.4,
+      "reviewCount": 69,
+      "imagePath": "/n/cw/ec/46817/xl-100-heavy-duty-right-side-view.png?isig=0",
+      "launchedOn": "4/30/2018 12:00:00 AM",
+      "variant": {
+        "versionId": 5625,
+        "versionName": "Winner Edition",
+        "price": 46470,
+        "formattedPrice": "₹ 46,470",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "99.7",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "55",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "4.3",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "89",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 576,
+      "modelName": "Star City Plus",
+      "modelMaskingName": "star-city",
+      "bodyStyleId": 9,
+      "fuelTypeId": 1,
+      "rating": 4.4,
+      "reviewCount": 278,
+      "imagePath": "/n/cw/ec/113179/star-city-right-side-view-2.png?isig=0",
+      "launchedOn": "5/6/2014 12:00:00 AM",
+      "variant": {
+        "versionId": 5669,
+        "versionName": "Disc",
+        "price": 74808,
+        "formattedPrice": "₹ 74,808",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "109.7",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "70",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "8.08",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "116",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 395,
+      "modelName": "Zest 110",
+      "modelMaskingName": "zest-110",
+      "bodyStyleId": 5,
+      "fuelTypeId": 1,
+      "rating": 4.2,
+      "reviewCount": 69,
+      "imagePath": "/n/cw/ec/49219/zest-110-right-side-view-8.png?isig=0",
+      "launchedOn": "8/20/2014 12:00:00 AM",
+      "variant": {
+        "versionId": 5454,
+        "versionName": "Matte",
+        "price": 75548,
+        "formattedPrice": "₹ 75,548",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "109.7",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "45",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "7.71",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "103",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 704,
+      "modelName": "XL 100 Comfort",
+      "modelMaskingName": "xl-100-comfort",
+      "bodyStyleId": 16,
+      "fuelTypeId": 1,
+      "rating": 4.2,
+      "reviewCount": 61,
+      "imagePath": "/n/cw/ec/51490/xl-100-comfort-right-side-view.png?isig=0",
+      "launchedOn": "1/25/2016 12:00:00 AM",
+      "variant": {
+        "versionId": 5365,
+        "versionName": "i-Touch Start",
+        "price": 46728,
+        "formattedPrice": "₹ 46,728",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "99.7",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 671,
+            "value": "55",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "4.29",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "89",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "SBT",
+            "itemName": "SBT",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2593,
+      "modelName": "X",
+      "modelMaskingName": "x",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 3.4,
+      "reviewCount": 3,
+      "imagePath": "/n/cw/ec/155881/x-right-side-view-4.png?isig=0",
+      "launchedOn": "8/23/2023 12:00:00 AM",
+      "variant": {
+        "versionId": 14767,
+        "versionName": "Standard",
+        "price": 263880,
+        "formattedPrice": "₹ 2,63,880",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "105",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "140",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "4.4",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Single Channel ABS",
+            "itemName": "Single Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 20,
+  "syncedAt": "2025-09-02T03:44:27.673Z"
+}

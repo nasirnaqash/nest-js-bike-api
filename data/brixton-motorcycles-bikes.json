@@ -1,0 +1,360 @@
+{
+  "manufacturer": {
+    "makeId": 169,
+    "makeName": "Brixton Motorcycles",
+    "logoUrl": "/n/cw/ec/169/brands/logos/brixton-motorcycles1731994670634.jpg?v=1731994670734"
+  },
+  "bikes": [
+    {
+      "modelId": 3117,
+      "modelName": "Crossfire 500 X",
+      "modelMaskingName": "crossfire-500-x",
+      "bodyStyleId": 3,
+      "fuelTypeId": 1,
+      "rating": 3.8,
+      "imagePath": "/n/cw/ec/1/versions/brixton-motorcycles-crossfire-500-x-standard1732631406329.jpg",
+      "launchedOn": "11/18/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 18917,
+        "versionName": "Standard",
+        "price": 474000,
+        "formattedPrice": "₹ 4,74,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "486",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "46.9",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "190",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3119,
+      "modelName": "Crossfire 500 XC",
+      "modelMaskingName": "crossfire-500-xc",
+      "bodyStyleId": 11,
+      "fuelTypeId": 1,
+      "imagePath": "/n/cw/ec/192527/crossfire-500-xc-right-side-view.jpeg?isig=0",
+      "launchedOn": "11/18/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 18919,
+        "versionName": "Standard",
+        "price": 492000,
+        "formattedPrice": "₹ 4,92,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "486",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "46.9",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "195",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3113,
+      "modelName": "Cromwell 1200",
+      "modelMaskingName": "cromwell-1200",
+      "bodyStyleId": 1,
+      "fuelTypeId": 1,
+      "rating": 4.8,
+      "reviewCount": 3,
+      "imagePath": "/n/cw/ec/192519/cromwell-1200-right-side-view.jpeg?isig=0",
+      "launchedOn": "11/18/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 18913,
+        "versionName": "Standard",
+        "price": 784000,
+        "formattedPrice": "₹ 7,84,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1222",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "81.8",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "235",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3115,
+      "modelName": "Cromwell 1200 X",
+      "modelMaskingName": "cromwell-1200-x",
+      "bodyStyleId": 1,
+      "fuelTypeId": 1,
+      "imagePath": "/n/cw/ec/192521/cromwell-1200-x-right-side-view.jpeg?isig=0",
+      "launchedOn": "11/18/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 18915,
+        "versionName": "Standard",
+        "price": 910000,
+        "formattedPrice": "₹ 9,10,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1222",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "81.8",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "235",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 4,
+  "syncedAt": "2025-09-02T03:44:37.347Z"
+}

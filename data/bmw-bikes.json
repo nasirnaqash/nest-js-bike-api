@@ -1,0 +1,2444 @@
+{
+  "manufacturer": {
+    "makeId": 3,
+    "makeName": "BMW",
+    "logoUrl": "/bw/makes/bmw20200508192553.jpg"
+  },
+  "bikes": [
+    {
+      "modelId": 1883,
+      "modelName": "G310 RR",
+      "modelMaskingName": "g310-rr",
+      "bodyStyleId": 12,
+      "fuelTypeId": 1,
+      "rating": 4.8,
+      "reviewCount": 61,
+      "imagePath": "/n/cw/ec/1/versions/bmw-g310-rr-style-sport1721222269815.jpg",
+      "launchedOn": "7/15/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10513,
+        "versionName": "Style Sport",
+        "price": 305000,
+        "formattedPrice": "₹ 3,05,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "312.12",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "30",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "33.5",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "174",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3175,
+      "modelName": "S1000RR",
+      "modelMaskingName": "s1000rr",
+      "bodyStyleId": 12,
+      "fuelTypeId": 1,
+      "rating": 4.8,
+      "reviewCount": 2,
+      "imagePath": "/n/cw/ec/1/versions/bmw-s1000rr-m-sport1737458459091.jpg",
+      "launchedOn": "1/18/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 19395,
+        "versionName": "M Sport",
+        "price": 2130000,
+        "formattedPrice": "₹ 21,30,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "999",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "16",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "206.51",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "197",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Turn by Turn Navigation",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "No",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Switchable ABS",
+            "itemName": "Switchable ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2997,
+      "modelName": "F 900 GS Adventure",
+      "modelMaskingName": "f-900-gs-adventure",
+      "bodyStyleId": 7,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/1/versions/--ride-pro1744879892871.jpg",
+      "launchedOn": "9/16/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 20545,
+        "versionName": "Ride Pro",
+        "price": 1510000,
+        "formattedPrice": "₹ 15,10,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "895",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "22.7",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "103.25",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "209",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1527,
+      "modelName": "M 1000 RR",
+      "modelMaskingName": "m-1000-rr",
+      "bodyStyleId": 14,
+      "fuelTypeId": 1,
+      "rating": 4.8,
+      "reviewCount": 8,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-blackstorm-metallic--m-motorsport-1688107304403.jpg",
+      "launchedOn": "3/25/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 5715,
+        "versionName": "Competition",
+        "price": 4900000,
+        "formattedPrice": "₹ 49,00,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "999",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "15.3",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "209.19",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "192",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1429,
+      "modelName": "R 1250 GS",
+      "modelMaskingName": "r-1250-gs",
+      "bodyStyleId": 15,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "imagePath": "/bw/models/bmw-r-1250-gs-standard20200731223837.jpg",
+      "launchedOn": "7/8/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 5488,
+        "versionName": "Standard",
+        "price": 2055000,
+        "formattedPrice": "₹ 20,55,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1254",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "21",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "134.1",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "249",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1430,
+      "modelName": "R 1250 GS Adventure",
+      "modelMaskingName": "r-1250-gs-adventure",
+      "bodyStyleId": 7,
+      "fuelTypeId": 1,
+      "rating": 4.9,
+      "reviewCount": 4,
+      "imagePath": "/bw/models/bmw-r-1250-gs-adventure-standard20200731224233.jpg",
+      "launchedOn": "7/8/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 5489,
+        "versionName": "Standard",
+        "price": 2250000,
+        "formattedPrice": "₹ 22,50,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1254",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "21",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "134.1",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "268",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2817,
+      "modelName": "CE 02",
+      "modelMaskingName": "ce-02",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 3.9,
+      "reviewCount": 4,
+      "imagePath": "/n/cw/ec/1/versions/bmw-ce-02-standard1725367922454.jpg",
+      "launchedOn": "10/1/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17021,
+        "versionName": "Standard",
+        "price": 449900,
+        "formattedPrice": "₹ 4,49,900",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "95",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "108",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "142",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3.9",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Single Channel ABS",
+            "itemName": "Single Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1423,
+      "modelName": "F850 GS",
+      "modelMaskingName": "f850-gs",
+      "bodyStyleId": 7,
+      "fuelTypeId": 1,
+      "rating": 4.9,
+      "reviewCount": 2,
+      "imagePath": "/n/cw/ec/116113/f850-gs-left-side-view.jpeg?isig=0",
+      "launchedOn": "4/14/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10001,
+        "versionName": "Adventure - Pro",
+        "price": 1295000,
+        "formattedPrice": "₹ 12,95,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "853",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "24",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "93.87",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "248",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 3257,
+      "modelName": "C 400 GT",
+      "modelMaskingName": "c-400-gt",
+      "bodyStyleId": 5,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "imagePath": "/n/cw/ec/1/versions/--standard1741335549558.jpg",
+      "launchedOn": "3/7/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 20101,
+        "versionName": "Standard",
+        "price": 1175000,
+        "formattedPrice": "₹ 11,75,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "350",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "28",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "33.5",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "214",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1433,
+      "modelName": "S 1000 R",
+      "modelMaskingName": "s-1000-r",
+      "bodyStyleId": 14,
+      "fuelTypeId": 1,
+      "rating": 4.6,
+      "reviewCount": 1,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-light-white-m-motorsport-1677058375637.jpg",
+      "launchedOn": "6/15/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 5819,
+        "versionName": "Pro M Sport",
+        "price": 1900000,
+        "formattedPrice": "₹ 19,00,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "999",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "16",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "162.26",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "194",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2619,
+      "modelName": "R 1300 GS",
+      "modelMaskingName": "r1300gs",
+      "bodyStyleId": 7,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-light-white--light-gray-1717615532587.png",
+      "launchedOn": "6/13/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 15179,
+        "versionName": "Pro",
+        "price": 2120000,
+        "formattedPrice": "₹ 21,20,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1300",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "21",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "145",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "237",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2847,
+      "modelName": "F 900 GS",
+      "modelMaskingName": "f-900-gs",
+      "bodyStyleId": 7,
+      "fuelTypeId": 1,
+      "rating": 4.8,
+      "imagePath": "/n/cw/ec/1/versions/bmw-f-900-gs-standard1726492463383.jpg",
+      "launchedOn": "9/16/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17089,
+        "versionName": "Standard",
+        "price": 1390000,
+        "formattedPrice": "₹ 13,90,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "895",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "22.7",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "103.25",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "219",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1369,
+      "modelName": "R18",
+      "modelMaskingName": "r18",
+      "bodyStyleId": 1,
+      "fuelTypeId": 1,
+      "rating": 4.6,
+      "reviewCount": 2,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-manhattan-metallic-matt-1679567480713.png",
+      "launchedOn": "9/19/2020 12:00:00 AM",
+      "variant": {
+        "versionId": 12577,
+        "versionName": "Transcontinental",
+        "price": 3250000,
+        "formattedPrice": "₹ 32,50,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1802",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "17",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "89.84",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "427",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2929,
+      "modelName": "R 12 nine T",
+      "modelMaskingName": "r-12-nine-t",
+      "bodyStyleId": 8,
+      "fuelTypeId": 1,
+      "rating": 4.8,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/1/versions/bmw-r-12-nine-t-standard1720177792274.jpg",
+      "launchedOn": "7/5/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17645,
+        "versionName": "Standard",
+        "price": 2110000,
+        "formattedPrice": "₹ 21,10,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1170",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "19.6",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "107.5",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "220",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2849,
+      "modelName": "CE 04",
+      "modelMaskingName": "ce-04",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 5,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/1/versions/bmw-ce-04-standard1721810757362.jpg",
+      "launchedOn": "7/24/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17091,
+        "versionName": "Standard",
+        "price": 1525000,
+        "formattedPrice": "₹ 15,25,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "120",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "130",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "231",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "8.9",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2927,
+      "modelName": "R 1300 GS Adventure",
+      "modelMaskingName": "r-1300-gs-adventure",
+      "bodyStyleId": 7,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "imagePath": "/n/cw/ec/1/versions/--style-option-7191737443099937.jpg",
+      "launchedOn": "1/18/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 19391,
+        "versionName": "Style Option 719",
+        "price": 2335000,
+        "formattedPrice": "₹ 23,35,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1300",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "21",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "143.4",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "269",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2635,
+      "modelName": "M 1000 R",
+      "modelMaskingName": "m-1000-r",
+      "bodyStyleId": 12,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "reviewCount": 2,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-blackstorm-metallicm-motorsport-1696501099397.jpg",
+      "launchedOn": "10/5/2023 12:00:00 AM",
+      "variant": {
+        "versionId": 15337,
+        "versionName": "Competition",
+        "price": 3300000,
+        "formattedPrice": "₹ 33,00,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "999",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "15.6",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "206.5",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "199",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1994,
+      "modelName": "K 1600",
+      "modelMaskingName": "k-1600",
+      "bodyStyleId": 15,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-blackstorm-metallic-1677042454441.png",
+      "launchedOn": "8/17/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10752,
+        "versionName": "Bagger",
+        "price": 3332775,
+        "formattedPrice": "₹ 33,32,775",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1649",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "17",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "158",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "344",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2931,
+      "modelName": "R 12",
+      "modelMaskingName": "r-12",
+      "bodyStyleId": 1,
+      "fuelTypeId": 1,
+      "rating": 4.2,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/1/versions/bmw-r-12-standard1720178321019.jpg",
+      "launchedOn": "7/5/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17643,
+        "versionName": "Standard",
+        "price": 2010000,
+        "formattedPrice": "₹ 20,10,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1170",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "19.6",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "93.7",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "227",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2871,
+      "modelName": "M 1000 XR",
+      "modelMaskingName": "m-1000-xr",
+      "bodyStyleId": 14,
+      "fuelTypeId": 1,
+      "rating": 4,
+      "reviewCount": 1,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-light-blue-dark-blue-and-red-1715629514548.png",
+      "launchedOn": "5/13/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17357,
+        "versionName": "Competiton",
+        "price": 4550000,
+        "formattedPrice": "₹ 45,50,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "999",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "15",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "201",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "223",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 2877,
+      "modelName": "S 1000 XR",
+      "modelMaskingName": "s-1000-xr",
+      "bodyStyleId": 12,
+      "fuelTypeId": 1,
+      "rating": 4.5,
+      "reviewCount": 1,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-light-whitem-motorsport-1716284312668.png",
+      "launchedOn": "5/21/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17379,
+        "versionName": "Standard",
+        "price": 2295000,
+        "formattedPrice": "₹ 22,95,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "999",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "16",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "167.62",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "227",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Switchable ABS",
+            "itemName": "Switchable ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1843,
+      "modelName": "F900XR",
+      "modelMaskingName": "f900xr",
+      "bodyStyleId": 15,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "reviewCount": 2,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-racing-blue-metallic-1698470114452.png",
+      "launchedOn": "4/14/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 9953,
+        "versionName": "Pro",
+        "price": 1255000,
+        "formattedPrice": "₹ 12,55,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "895",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "24",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "103.25",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "219",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    },
+    {
+      "modelId": 1992,
+      "modelName": "R 1250 RT",
+      "modelMaskingName": "r1250rt",
+      "bodyStyleId": 15,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "imagePath": "/n/bw/models/colors/bmw-select-model-mineral-white-metallic-1676977282740.png",
+      "launchedOn": "8/17/2022 12:00:00 AM",
+      "variant": {
+        "versionId": 10750,
+        "versionName": "Standard",
+        "price": 2495000,
+        "formattedPrice": "₹ 24,95,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "1254",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "21",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "134.1",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "279",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 23,
+  "syncedAt": "2025-09-02T03:44:35.985Z"
+}

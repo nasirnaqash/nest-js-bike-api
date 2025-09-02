@@ -1,0 +1,103 @@
+{
+  "manufacturer": {
+    "makeId": 161,
+    "makeName": "Ferrato",
+    "logoUrl": "/n/cw/ec/161/brands/logos/ferrato1719308176440.jpg?v=1719308176587"
+  },
+  "bikes": [
+    {
+      "modelId": 2913,
+      "modelName": "Disruptor",
+      "modelMaskingName": "disruptor",
+      "bodyStyleId": 12,
+      "fuelTypeId": 5,
+      "rating": 4.7,
+      "reviewCount": 1,
+      "imagePath": "/n/cw/ec/180345/disruptor-right-side-view-7.jpeg?isig=0",
+      "launchedOn": "6/19/2024 12:00:00 AM",
+      "variant": {
+        "versionId": 17549,
+        "versionName": "Standard",
+        "price": 154999,
+        "formattedPrice": "₹ 1,54,999",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "95",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "129",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "164",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3.97",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 1,
+  "syncedAt": "2025-09-02T03:44:39.954Z"
+}

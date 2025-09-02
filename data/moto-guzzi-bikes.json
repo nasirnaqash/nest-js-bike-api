@@ -1,0 +1,120 @@
+{
+  "manufacturer": {
+    "makeId": 20,
+    "makeName": "Moto Guzzi",
+    "logoUrl": "/bw/makes/moto-guzzi20200518163528.jpg"
+  },
+  "bikes": [
+    {
+      "modelId": 1635,
+      "modelName": "V85 TT",
+      "modelMaskingName": "v85-tt",
+      "bodyStyleId": 13,
+      "fuelTypeId": 1,
+      "rating": 5,
+      "imagePath": "/n/cw/ec/102771/right-side-view.jpeg?isig=0",
+      "launchedOn": "9/2/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 8685,
+        "versionName": "Standard",
+        "price": 1540000,
+        "formattedPrice": "₹ 15,40,000",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 375,
+            "value": "853",
+            "unitType": "cc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 406,
+            "value": "23.8",
+            "unitType": "kmpl",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 454,
+            "value": "75.09",
+            "unitType": "bhp",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "230",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 897,
+            "value": "1",
+            "itemName": "Traction Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "Dual Channel ABS",
+            "itemName": "Dual Channel ABS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 1,
+  "syncedAt": "2025-09-02T03:44:50.104Z"
+}

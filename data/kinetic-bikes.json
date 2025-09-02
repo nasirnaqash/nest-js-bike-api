@@ -1,0 +1,93 @@
+{
+  "manufacturer": {
+    "makeId": 172,
+    "makeName": "Kinetic",
+    "logoUrl": "/n/cw/ec/172/brands/logos/kinetic1753860847959.jpg?v=1753860848056"
+  },
+  "bikes": [
+    {
+      "modelId": 3380,
+      "modelName": "DX",
+      "modelMaskingName": "dx",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 4.8,
+      "imagePath": "/n/cw/ec/207636/dx-right-front-three-quarter.jpeg?isig=0",
+      "launchedOn": "7/28/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 21386,
+        "versionName": "DX+",
+        "price": 111499,
+        "formattedPrice": "₹ 1,11,499",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "90",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "116",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "90",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "2.6",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "At least One Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 1,
+  "syncedAt": "2025-09-02T03:44:47.436Z"
+}

@@ -1,0 +1,112 @@
+{
+  "manufacturer": {
+    "makeId": 109,
+    "makeName": "Bounce",
+    "logoUrl": "/n/cw/ec/109/brands/logos/bounce.jpg?v=1638948087344"
+  },
+  "bikes": [
+    {
+      "modelId": 1761,
+      "modelName": "Infinity E1",
+      "modelMaskingName": "infinity-e1",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 3.5,
+      "reviewCount": 108,
+      "imagePath": "/n/cw/ec/108613/infinity-e1-right-side-view-2.png?isig=0",
+      "launchedOn": "12/2/2021 12:00:00 AM",
+      "variant": {
+        "versionId": 14179,
+        "versionName": "Limited Edition",
+        "price": 115605,
+        "formattedPrice": "₹ 1,15,605",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "65",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "70",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "94",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "1.9",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "Yes",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 813,
+            "value": "1",
+            "itemName": "Cruise Control",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 1,
+  "syncedAt": "2025-09-02T03:44:36.712Z"
+}

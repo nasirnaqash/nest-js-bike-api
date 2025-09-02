@@ -1,0 +1,102 @@
+{
+  "manufacturer": {
+    "makeId": 171,
+    "makeName": "Numeros Motors",
+    "logoUrl": "/n/cw/ec/171/brands/logos/numeros-motors1744881200580.jpg?v=1744881200715"
+  },
+  "bikes": [
+    {
+      "modelId": 3289,
+      "modelName": "Diplos",
+      "modelMaskingName": "diplos",
+      "bodyStyleId": 5,
+      "fuelTypeId": 5,
+      "rating": 4.5,
+      "imagePath": "/n/cw/ec/201177/diplos-right-side-view.jpeg?isig=0",
+      "launchedOn": "1/17/2025 12:00:00 AM",
+      "variant": {
+        "versionId": 20547,
+        "versionName": "Max",
+        "price": 116140,
+        "formattedPrice": "₹ 1,16,140",
+        "priceLabel": "Avg. Ex-Showroom price",
+        "specsSummary": [
+          {
+            "itemId": 394,
+            "value": "63",
+            "unitType": "kmph",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 407,
+            "value": "140",
+            "unitType": "km",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 397,
+            "value": "137",
+            "unitType": "kg",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 597,
+            "value": "3.7",
+            "unitType": "kWh",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "features": [
+          {
+            "itemId": 605,
+            "value": "No",
+            "itemName": "GPS & Navigation",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 647,
+            "value": "Yes",
+            "itemName": "USB Charging Port",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 640,
+            "value": "CBS",
+            "itemName": "CBS",
+            "unitType": "",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          },
+          {
+            "itemId": 0,
+            "value": "Braking System",
+            "itemName": "Both Front and Rear Disc",
+            "customTypeId": 0,
+            "dataTypeId": 0,
+            "isHighlighted": false
+          }
+        ],
+        "isMostPopular": false,
+        "isJustLaunched": false,
+        "isLaunchingSoon": false
+      }
+    }
+  ],
+  "bikeCount": 1,
+  "syncedAt": "2025-09-02T03:44:51.625Z"
+}
